@@ -1,6 +1,6 @@
 ---
-title: $15 per set, $25 for two
-subtitle: Norooz Cookie Set
+title: Norooz Cookie Set
+subtitle: $15 per set, $25 for two
 layout: default
 modal-id: 4
 date: 2018-03-22
