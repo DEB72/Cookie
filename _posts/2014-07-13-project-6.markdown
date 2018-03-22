@@ -1,11 +1,11 @@
 ---
-title: Haft Seen Cookie Set
-subtitle: $15 for one set, $25 for two
+title: Norooz Cookie Sets
+subtitle: Choose the Set You Want
 layout: default
 modal-id: 6
 date: 2018-03-22
-img: haftseen.jpeg
-thumbnail: haftseen.jpeg
+img: NoRoozCookieSets.jpeg
+thumbnail: thumbnailForNoRoozCookies.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
