@@ -1,6 +1,6 @@
 ---
 title: Birthday Cookies
-subtitle:Photos Coming Soon!
+subtitle: Photos Coming Soon!
 layout: default
 modal-id: 3
 date: 2018-03-22
