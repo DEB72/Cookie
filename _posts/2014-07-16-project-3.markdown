@@ -1,6 +1,6 @@
 ---
-title: Baby Shower Cookie Pictures Coming Soon!
-subtitle: Both for Boy and for Girl
+title: Baby Shower Cookies
+subtitle:Photos Coming Soon!
 layout: default
 modal-id: 3
 date: 2014-07-16
