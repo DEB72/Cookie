@@ -1,5 +1,5 @@
 ---
-title: Wedding and Engagment Cookies
+title: Valentine's day
 subtitle: Photos Coming Soon!
 layout: default
 modal-id: 2
