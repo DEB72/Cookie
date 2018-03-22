@@ -1,5 +1,5 @@
 ---
-title: Haft Seen Cookies
+title: Haft Seen Cookie Set
 subtitle: $15 for one set, $25 for two
 layout: default
 modal-id: 6
