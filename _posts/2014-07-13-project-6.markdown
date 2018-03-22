@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Haft Seen Cookies
+subtitle: Price:  $15 for one set, $25 for two
 layout: default
 modal-id: 6
 date: 2014-07-15
