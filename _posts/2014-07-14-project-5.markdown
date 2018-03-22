@@ -1,5 +1,5 @@
 ---
-title: Wedding / Engagement
+title: Wedding Engagement
 subtitle:Pictures Coming Soon!
 layout: default
 modal-id: 5
