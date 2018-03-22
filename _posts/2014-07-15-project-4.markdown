@@ -1,11 +1,11 @@
 ---
-title: Norooz Cookie Set
-subtitle: $15 per set, $25 for two
+title: Mother's Day Cookie Sets
+subtitle: Photos Coming Soon!
 layout: default
 modal-id: 4
 date: 2018-03-22
 img: norooz.jpeg
-thumbnail: norooz.jpeg
+thumbnail: MothersDayThumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
