@@ -1,11 +1,11 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: $5 per set
+subtitle: Hajji Firzooz Cookies
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: hajjifirooz.jpeg
+thumbnail: hajjifirooz.jpegg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
