@@ -1,5 +1,5 @@
 ---
-title: Mother's Day Cookie Sets
+title: Mother's Day
 subtitle: Photos Coming Soon
 layout: default
 modal-id: 4
@@ -9,7 +9,7 @@ thumbnail: MothersDayThumbnail.jpg
 alt: image-alt
 project-date: 
 client: 
-category: Mother's Day
+category: 
 description: Price Per Set - $15.  Your order must be at least $25 to qualify for free delivery.
 
 ---
