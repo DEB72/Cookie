@@ -4,7 +4,7 @@ subtitle: Photos Coming Soon!
 layout: default
 modal-id: 1
 date: 2018-03-22
-img: dreams.png
+img: Photos Coming Soon.png
 thumbnail: thumbnailForBabyShowerCookies.jpg
 alt: image-alt
 description: Baby shower cookies
