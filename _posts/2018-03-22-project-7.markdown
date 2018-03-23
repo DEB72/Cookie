@@ -5,7 +5,7 @@ layout: default
 modal-id: 7
 date: 2018-03-23
 img: Photos Coming Soon.png
-thumbnail: ChristmasThumbnailSquare.jpg
+thumbnail: ChristmasThumbnailSquare.jpeg
 alt: image-alt
 project-date: 
 client: 
