@@ -1,15 +1,15 @@
 ---
 title: Wedding Engagement
-subtitle: Pictures Coming Soon!
+subtitle: Pictures Coming Soon
 layout: default
 modal-id: 5
 date: 2018-03-22
-img: hajjifirooz.jpeg
+img: Photos Coming Soon.png
 thumbnail: thumbnailwedding.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Nice pictures......
+project-date: 
+client: 
+category: Wedding/Engagement
+description: Price Per Set - $15.  Your order must be at least $25 to qualify for free delivery.
 
 ---
