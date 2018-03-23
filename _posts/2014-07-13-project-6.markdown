@@ -1,5 +1,5 @@
 ---
-title: Norooz Cookie Sets
+title: Norooz
 subtitle: Click to View
 layout: default
 modal-id: 6
