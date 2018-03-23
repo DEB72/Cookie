@@ -1,5 +1,5 @@
 ---
-title: Birthday Cookies
+title: Birthday
 subtitle: Photos Coming Soon
 layout: default
 modal-id: 3
