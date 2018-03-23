@@ -1,6 +1,6 @@
 ---
-title: Baby Shower Cookies
-subtitle: Photos Coming Soon!
+title: Baby Shower
+subtitle: Photos Coming Soon
 layout: default
 modal-id: 1
 date: 2018-03-22
