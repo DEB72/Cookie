@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2018-03-22
 img: Photos Coming Soon.png
-thumbnail: MothersDayThumbnail.jpg
+thumbnail: MothersDayThumbnailNoWords.jpg
 alt: image-alt
 project-date: 
 client: 
