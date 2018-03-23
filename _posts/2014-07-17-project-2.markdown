@@ -1,5 +1,5 @@
 ---
-title: Valentine's day
+title: Valentine's Day
 subtitle: Photos Coming Soon
 layout: default
 modal-id: 2
@@ -7,9 +7,6 @@ date: 2014-07-17
 img: Photos Coming Soon.png
 thumbnail: ValentinesThumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description:  Price Per Set..........
 
 ---
