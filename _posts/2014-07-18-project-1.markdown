@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2018-03-22
 img: Photos Coming Soon.png
-thumbnail: BearThumbnailNoWords.jpg
+thumbnail: BearThumbnailSquare2.jpg
 alt: image-alt
 description: Baby shower cookies.
 
