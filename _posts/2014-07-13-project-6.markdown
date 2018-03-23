@@ -6,6 +6,5 @@ modal-id: 6
 date: 2018-03-22
 img: NoRoozCookieSets.jpeg
 thumbnail: thumbnailForNoRoozCookies.jpeg
-description: Sets 1 and 2 are $15.  Set 3 is $5. 
-Your choice of chocolate or vanilla. (Hajji Firooz will be chocolate unless you specify vanilla.) Your order must be at least $25 to qualify for free delivery. 
+description: Sets 1 and 2 are $15.  Set 3 is $5. Your choice of chocolate or vanilla. (Hajji Firooz will be chocolate unless you specify vanilla.) Your order must be at least $25 to qualify for free delivery. 
 ---
