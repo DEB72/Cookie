@@ -1,6 +1,6 @@
 ---
 title: Norooz
-subtitle: Click to Vie
+subtitle: Click to View
 layout: default
 modal-id: 6
 date: 2018-03-22
