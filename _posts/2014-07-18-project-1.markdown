@@ -5,9 +5,9 @@ layout: default
 modal-id: 1
 date: 2018-03-22
 img: Photos Coming Soon.png
-thumbnail: BearThumbnailSquare2.jpg
+thumbnail: BabyShower.jpg
 alt: image-alt
-price: $15 - $25
-description: Baby shower cookies.
+price: 
+description: 
 
 ---
