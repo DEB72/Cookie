@@ -50,11 +50,6 @@ social:
     url:
 
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 
-  - line: 
-
 # Build settings
 markdown: kramdown
 permalink: pretty
