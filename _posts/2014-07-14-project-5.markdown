@@ -6,9 +6,9 @@ modal-id: 5
 date: 2018-03-22
 img: Photos Coming Soon.png
 thumbnail: Wedding.jpg
-project-date: 
+project-date: $15 per set
 client: $15 per set
-category: 
+category: $15 per set
 description: 
 
 ---
