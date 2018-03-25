@@ -1,6 +1,6 @@
 ---
 title: Norooz
-subtitle: Click to View
+subtitle: Click on Picture to View Cookie Sets
 layout: default
 modal-id: 6
 date: 2018-03-22
