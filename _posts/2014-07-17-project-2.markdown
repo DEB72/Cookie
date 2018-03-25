@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: Photos Coming Soon.png
-thumbnail: ValentineNewThumbnail.png
+thumbnail: ImprovedValentine.jpg
 alt: image-alt
 description:  Price Per Set..........
 price: 
