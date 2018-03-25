@@ -6,6 +6,9 @@ modal-id: 5
 date: 2018-03-22
 img: Photos Coming Soon.png
 thumbnail: Wedding.jpg
+project-date: 
+client: 
+category: 
 description: 
 
 ---
