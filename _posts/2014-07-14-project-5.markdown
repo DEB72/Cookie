@@ -7,7 +7,7 @@ date: 2018-03-22
 img: Photos Coming Soon.png
 thumbnail: Wedding.jpg
 project-date: 
-client: 
+client: $15 per set
 category: 
 description: 
 
