@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Price Per Set - $15.  Your order must be at least $25 to qualify for free shipping.
+description: 
 
 ---
