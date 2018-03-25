@@ -10,6 +10,6 @@ project-date: $15 per set
 client: $15 per set
 category: $15 per set
 description: $15 per set
-Price: $15 per set
+price: $15 per set
 
 ---
