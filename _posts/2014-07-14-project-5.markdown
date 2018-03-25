@@ -9,6 +9,6 @@ thumbnail: Wedding.jpg
 project-date: $15 per set
 client: $15 per set
 category: $15 per set
-description: 
+description: $15 per set
 
 ---
