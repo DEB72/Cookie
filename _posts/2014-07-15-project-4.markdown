@@ -11,5 +11,6 @@ project-date:
 client: 
 category: 
 description: 
+price:  $15 per set
 
 ---
