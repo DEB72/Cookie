@@ -3,8 +3,8 @@ title: Baby Shower
 subtitle: Photos Coming Soon
 layout: default
 modal-id: 1
-date: 2018-03-22
-img: Photos Coming Soon.png
+date: 2018-03-27
+img: BoyBabyShowerCollage.jpg
 thumbnail: BabyShower.jpg
 alt: image-alt
 price: 
