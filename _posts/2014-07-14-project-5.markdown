@@ -7,7 +7,7 @@ date: 2018-03-22
 img: Photos Coming Soon.png
 thumbnail: Wedding.jpg
 
-description: Write some description here if you want
-price: $15 per set
+description: 
+price: 
 
 ---
