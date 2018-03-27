@@ -1,6 +1,6 @@
 ---
 title: Baby Shower
-subtitle: Photos Coming Soon
+subtitle: Click on Picture to View Cookie Sets
 layout: default
 modal-id: 1
 date: 2018-03-27
