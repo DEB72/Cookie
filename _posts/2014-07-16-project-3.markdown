@@ -8,8 +8,7 @@ img: Photos Coming Soon.png
 thumbnail: BirthdayThumbnail.jpg
 alt: image-alt
 project-date: 
-client: 
-category: 
+price:  $15 per set 
 description: 
 
 ---
