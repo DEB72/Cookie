@@ -1,1 +1,16 @@
 
+---
+title: Eid Mobarak
+subtitle: Photos Coming Soon
+layout: default
+modal-id: 9
+date: 2018-03-26
+img: Photos Coming Soon.png
+thumbnail: GingerbreadThumbnail.jpg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description:  
+price: 
+---
