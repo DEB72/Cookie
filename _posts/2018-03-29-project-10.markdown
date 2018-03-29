@@ -4,10 +4,10 @@ subtitle: Photos Coming Soon
 layout: default
 modal-id: 10
 date: 2018-03-27
-img: PhotosComingSoonSquare.jpg
+img: BabyGirlCollage.jpg
 thumbnail: BabyBottle.jpg
 alt: image-alt
-price: 
-description:  
+price: $20 per dozen; $25 for 15.  (Free  delivery with order of $25 or more)
+description:  Make your own set.  Choose vanilla for chocolate.
 
 ---
