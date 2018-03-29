@@ -1,6 +1,6 @@
 ---
 title: Girl's Baby Shower
-subtitle: Click on Picture to View Cookie Sets
+subtitle: Photos Coming Soon
 layout: default
 modal-id: 1
 date: 2018-03-27
