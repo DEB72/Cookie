@@ -1,0 +1,13 @@
+---
+title: Boy's Baby Shower
+subtitle: Click on Picture to View Cookie Sets
+layout: default
+modal-id: 1
+date: 2018-03-27
+img: BoyBabyShowerCollage.jpg
+thumbnail: BabyShower.jpg
+alt: image-alt
+price: $12 per set
+description: Your choice vanilla or chocolate.  Set 1, horse can be brown or blue.  
+
+---
