@@ -8,6 +8,6 @@ img: BoyBabyShowerCollage.jpg
 thumbnail: BabyShower.jpg
 alt: image-alt
 price: $12 per set
-description: Your choice vanilla or chocolate.  Set 1, horse can be brown or blue.  
+description: Your choice vanilla or chocolate.  Set 1, horse can be brown or blue  
 
 ---
