@@ -1,15 +1,15 @@
 ---
 title: Christmas
-subtitle: Photos Coming Soon
+subtitle: Click on picture to view more
 layout: default
 modal-id: 7
 date: 2018-03-23
-img: Photos Coming Soon.png
+img: ChristmasCollage.jpg
 thumbnail: GingerbreadThumbnail.jpg
 alt: image-alt
 project-date: 
 client: 
 category: 
-description:  
-price: 
+description:  Make your own set.  Choose chocolate for vanilla.
+price: $12 for 7, $20 for 12, $25 for 16
 ---
