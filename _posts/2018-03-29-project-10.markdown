@@ -2,7 +2,7 @@
 title: Girl's Baby Shower
 subtitle: Photos Coming Soon
 layout: default
-modal-id: 1
+modal-id: 10
 date: 2018-03-27
 img: PhotosComingSoonSquare.jpg
 thumbnail: BabyBottle.jpg
