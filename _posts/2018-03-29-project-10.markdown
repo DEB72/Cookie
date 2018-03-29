@@ -1,5 +1,5 @@
 ---
-title: Boy's Baby Shower
+title: Girl's Baby Shower
 subtitle: Click on Picture to View Cookie Sets
 layout: default
 modal-id: 1
