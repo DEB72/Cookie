@@ -1,6 +1,6 @@
 ---
 title: Girl's Baby Shower
-subtitle: Photos Coming Soon
+subtitle: Click on picture to view more
 layout: default
 modal-id: 10
 date: 2018-03-27
