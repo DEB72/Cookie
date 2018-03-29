@@ -1,13 +1,13 @@
 ---
 title: Valentine's Day
-subtitle: Photos Coming Soon
+subtitle: Click on picture to view more
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: Photos Coming Soon.png
+img: ValentineCookieCollage.jpg
 thumbnail: ImprovedValentine.jpg
 alt: image-alt
-description:  
-price: 
+description:  Make your own set.  Choose vanilla or chocolate.
+price: $12 for 7, $20 for 12, $25 for 16
 
 ---
