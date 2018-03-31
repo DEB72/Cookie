@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description:  
+description: Make your own set.  Your choice vanilla or chocolate. 
 price: 
 ---
