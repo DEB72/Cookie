@@ -1,6 +1,6 @@
 ---
 title: Eid Mobarak
-subtitle: click on picture to view more.
+subtitle: Click on picture to view more.
 layout: default
 modal-id: 9
 date: 2018-03-26
