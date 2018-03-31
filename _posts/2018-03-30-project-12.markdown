@@ -1,0 +1,15 @@
+---
+title: t\Thank You
+subtitle: Click on picture to view more.
+layout: default
+modal-id: 12
+date: 2018-03-26
+img: PhotosComingSoon.jpg
+thumbnail: EidMobarak.jpg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Make your own set.  Your choice vanilla or chocolate. 
+price: $12 for 7, $20 for 12, $25 for 16.
+---
