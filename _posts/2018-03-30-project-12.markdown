@@ -5,7 +5,7 @@ layout: default
 modal-id: 12
 date: 2018-03-26
 img: PhotosComingSoon.jpg
-thumbnail: EidMobarak.jpg
+thumbnail: ThankYouCollage.jpg
 alt: image-alt
 project-date: 
 client: 
