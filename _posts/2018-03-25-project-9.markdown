@@ -1,11 +1,11 @@
 ---
 title: Eid Mobarak
-subtitle: Photos Coming Soon
+subtitle: click on picture to view more.
 layout: default
 modal-id: 9
 date: 2018-03-26
 img: Photos Coming Soon.png
-thumbnail: PhotosComingSoonSquare.jpg
+thumbnail: EidMobarak.jpg
 alt: image-alt
 project-date: 
 client: 
