@@ -4,8 +4,8 @@ subtitle: Click on picture to view more
 layout: default
 modal-id: 11
 date: 2018-03-30
-img: PhotosComingSoonSquare.jpg
-thumbnail: PhotosComingSoonSquare.jpg
+img: GraduationCollage.jpg
+thumbnail: GraduationThumbnail.jpg
 alt: image-alt
 price: $20 per dozen; $25 for 15.  (Free  delivery with order of $25 or more)
 description:  Make your own set.  Choose vanilla for chocolate.
