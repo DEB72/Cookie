@@ -3,7 +3,7 @@ title: Eid Mobarak
 subtitle: Click on picture to view more.
 layout: default
 modal-id: 9
-date: 2018-03-26
+date: 2018-04-14
 img: ShabanCollage.jpg
 thumbnail: EidMobarak.jpg
 alt: image-alt
