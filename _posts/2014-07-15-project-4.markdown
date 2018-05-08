@@ -1,16 +1,16 @@
 ---
 title: Mother's Day
-subtitle: Photos Coming Soon
+subtitle: Click here to see where to get Mother's Day Cookie Bouquets
 layout: default
 modal-id: 4
 date: 2018-03-22
-img: Photos Coming Soon.png
-thumbnail: MothersDayBouquet.jpg
+img: MothersDayBouquets.jpg
+thumbnail: NewMothersDayThumbnail.jpg
 alt: image-alt
 project-date: 
 client: 
 category: 
-description: 
-price:  $15 per set
+description: Come to the Denton Community Market on May 12th to buy a Mother's Day Cookie Bouquet
+price:  $20 per pot; Individual cookies also available.
 
 ---
