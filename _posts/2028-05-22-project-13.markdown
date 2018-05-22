@@ -4,8 +4,8 @@ subtitle: Click on picture to view more
 layout: default
 modal-id: 13
 date: 2018-03-23
-img: GirlsBirthdayThumbnail.jpg
-thumbnail: Photos Coming Soon.png
+img: Photos Coming Soon.png
+thumbnail: GirlsBirthdayThumbnail.jpg
 alt: image-alt
 price: Individual - $1.50 each or a $15 for a dozen.
 description:  Your choice vanilla or chocolate.   
