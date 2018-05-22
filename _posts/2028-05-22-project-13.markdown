@@ -1,5 +1,5 @@
 ---
-title: Girl's Birthday
+title: Birthday for Girl
 subtitle: Click on picture to view more
 layout: default
 modal-id: 13
