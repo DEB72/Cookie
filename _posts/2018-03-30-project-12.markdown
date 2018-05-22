@@ -11,5 +11,5 @@ project-date:
 client: 
 category: 
 description: Make your own set.  Your choice vanilla or chocolate. 
-price: Individual - $1.50 or a dozen for $15
+price: Individual - Individual - $1.50 ; Dozen - $15; Bouquet - $15  (Free  delivery with order of $25 or more)
 ---
