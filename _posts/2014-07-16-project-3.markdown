@@ -4,11 +4,11 @@ subtitle: Click on the picture for more
 layout: default
 modal-id: 3
 date: 2018-03-22
-img: Photos Coming Soon.png
+img: BoysBirthdayCookies.jpg
 thumbnail: BirthdayThumbnail.jpg
 alt: image-alt
 project-date: 
-price:  
+price: Individual - $1.50 each or $15 for a dozen.
 description: 
 
 ---
