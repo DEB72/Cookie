@@ -6,10 +6,7 @@ modal-id:14
 date: 2018-05-10
 img: Photos Coming Soon.png
 thumbnail: FathersDayThumbnail.jpg
-alt: image-alt
-project-date: 
-client: 
-category: 
-description: Come to the Denton Community Market on June 9th to buy a Father's Day Cookie Bouquet or other Father’s Day cookie sets.  Located at the corner of Carroll Blvd. and Mulberry St.  Individual cookies also available.
+alt: image-alt 
 price:  $15 per pot.   
+description: Come to the Denton Community Market on June 9th to buy a Father's Day Cookie Bouquet or other Father’s Day cookie sets.  Located at the corner of Carroll Blvd. and Mulberry St.  Individual cookies also available.
 ---
