@@ -11,6 +11,6 @@ project-date:
 client: 
 category: 
 description: Come to the Denton Community Market on May 12th to buy a Mother's Day Cookie Bouquet.  Located at the corner of Carrol Blvd. and Mulberry St.  Individual cookies also available.
-price:  $20 per pot.  
+price:  $15 per pot.  
 
 ---
