@@ -2,7 +2,7 @@
 title: Father's Day
 subtitle: Click on picture to view more.
 layout: default
-modal-id:14
+modal-id: 14
 date: 2018-05-10
 img: Photos Coming Soon.png
 thumbnail: FathersDayThumbnail.jpg
