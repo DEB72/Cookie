@@ -9,3 +9,4 @@ thumbnail: BoyBabyShowerSet1.jpg
 alt: image-alt
 price: Individual - $1.50 each or a $15 for a dozen.
 description:  Your choice vanilla or chocolate.   
+---
