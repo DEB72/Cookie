@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Other Occasions
 subtitle: Click on picture to view more.
 layout: default
 modal-id: 12
