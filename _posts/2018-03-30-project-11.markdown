@@ -7,7 +7,7 @@ date: 2018-05-07
 img: GraduationCollage.jpg
 thumbnail: GraduationThumbnail.jpg
 alt: image-alt
-price: $20 per dozen; $25 for 15.  (Free  delivery with order of $25 or more)
+price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
 description:  Make your own set.  Choose vanilla for chocolate.
 
 ---
