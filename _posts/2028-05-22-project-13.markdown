@@ -1,9 +1,9 @@
 ---
-title: Girl's Baby Shower
+title: Girl's Birthday
 subtitle: Click on picture to view more
 layout: default
 modal-id: 13
-date: 2018-03-23
+date: 2018-03-22
 img: Photos Coming Soon.png
 thumbnail: GirlsBirthdayThumbnail.jpg
 alt: image-alt
