@@ -7,7 +7,7 @@ date: 2018-03-27
 img: BoyBabyShowerCollage2.jpg
 thumbnail: BoyBabyShowerSet1.jpg
 alt: image-alt
-price: $12 for 7, $20 for 12, $25 for 16
+price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
 description: Use set on first picture or make your own.  Your choice vanilla or chocolate.   
 
 ---
