@@ -8,6 +8,6 @@ img: ValentineCookieCollage.jpg
 thumbnail: ImprovedValentine.jpg
 alt: image-alt
 description:  Make your own set.  Choose vanilla or chocolate.
-price: $12 for 7, $20 for 12, $25 for 16
+price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
 
 ---
