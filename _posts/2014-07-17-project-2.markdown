@@ -3,7 +3,7 @@ title: Valentine's Day
 subtitle: Click on picture to view more
 layout: default
 modal-id: 2
-date: 2015-07-17
+date: 2013-07-17
 img: ValentineCookieCollage.jpg
 thumbnail: ImprovedValentine.jpg
 alt: image-alt
