@@ -5,7 +5,7 @@ layout: default
 modal-id: 9
 date: 2018-04-14
 img: NewEidCollage.jpg
-thumbnail: NewEidThumbnail.jpg
+thumbnail: EidCookiesForFlyer.jpg
 alt: image-alt
 project-date: 
 client: 
