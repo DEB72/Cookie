@@ -3,7 +3,7 @@ title: Other Occasions
 subtitle: Click on picture to view more.
 layout: default
 modal-id: 12
-date: 2018-03-26
+date: 2018-03-20
 img: GeneralOccasionCollage.jpg
 thumbnail: ThankYouCollage.jpg
 alt: image-alt
