@@ -7,6 +7,6 @@ date: 2018-03-22
 img: NewBirthdayForGirl.jpg
 thumbnail: GirlsBirthdayThumbnail.jpg
 alt: image-alt
-price: single Cookies - $1.50 each or $15 for a dozen; Sets of 3 (Numbers 4, 8 and 12) $4 each; Set Number 2 - $5 (or $1.5 per cookie)
+price: Single Cookies - $1.50 each or $15 for a dozen; Sets of 3 (Numbers 4, 8 and 12) $4 each; Set Number 2 - $5 (or $1.50 per cookie)
 description:  Your choice vanilla or chocolate.  
 ---
