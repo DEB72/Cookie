@@ -4,12 +4,12 @@ subtitle: Click on picture to view more.
 layout: default
 modal-id: 12
 date: 2018-02-28
-img:  	NewThankYouCookies.jpg
+img:  	 	NewGeneralOccasionCookiePic.jpg
 thumbnail: NewThankYouCookies.jpg
 alt: image-alt
 project-date: 
 client: 
 category: 
 description:  Your choice vanilla or chocolate. 
-price: Individual - $1.50 ; Dozen - $15; Bouquet - $15  (Free  delivery with order of $25 or more)
+price: Bouquet (Number 4) - $15, All others $1.50 ; Dozen singles - $15.  (Free  delivery with order of $25 or more)
 ---
