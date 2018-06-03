@@ -3,13 +3,13 @@ title: Eid Mubarak
 subtitle: Click on picture to view more.
 layout: default
 modal-id: 9
-date: 2018-04-14
+date: 2018-06-02
 img: NewEidCollage.jpg
 thumbnail: EidCookiesForFlyer.jpg
 alt: image-alt
 project-date: 
 client: 
 category: 
-description: Make your own set.  Your choice vanilla or chocolate. 
-price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
+description:  Your choice vanilla or chocolate. 
+price: Individual Prices:  1-2 $1, 3-6 $1.50, 7-9 $2 - $1.50 ; Dozen Mixed Sizes - $15  (Free  delivery with order of $25 or more)
 ---
