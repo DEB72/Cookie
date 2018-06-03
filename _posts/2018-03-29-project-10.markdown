@@ -4,7 +4,7 @@ subtitle: Click on picture to view more
 layout: default
 modal-id: 10
 date: 2018-03-27
-img: BabyGirlCollage.jpg
+img: NewGirlsBabyShower.jpg
 thumbnail: BabyBottle.jpg
 alt: image-alt
 price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
