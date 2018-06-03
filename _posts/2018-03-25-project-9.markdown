@@ -11,5 +11,5 @@ project-date:
 client: 
 category: 
 description:  Your choice vanilla or chocolate. 
-price: Individual Prices  1-2 $1, 3-6 $1.50, 7-9 $2 - $1.50 ; Dozen Mixed Sizes - $15  (Free  delivery with order of $25 or more)
+price: Individual Prices  1-2 $1 per cookie, 3-6 $1.50 per cookie, 7-9 $2 - $1.50 per cookie ; Dozen Mixed Sizes - $15  (Free  delivery with order of $25 or more)
 ---
