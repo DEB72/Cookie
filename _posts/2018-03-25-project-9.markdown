@@ -11,5 +11,5 @@ project-date:
 client: 
 category: 
 description:  Your choice vanilla or chocolate. 
-price:  1-2 $2.50 per set or $1 per  cookie, 3-5 $1.50 each, 6 $2 each, 7 $4 per set or $1.50 per cookie, 8-9 $2 per cookie ; One Dozen in Mixed Sizes - $15  (Free  delivery with order of $25 or more)
+price:  1-2 $2.50 per set, 3-5 $1.50 each, 6 $2 each, 7 $4 per set, 8-9 $2 per cookie ; One Dozen in Mixed Sizes - $15  (Free  delivery with order of $25 or more)
 ---
