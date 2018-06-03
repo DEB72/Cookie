@@ -4,12 +4,12 @@ subtitle: Click on picture to view more.
 layout: default
 modal-id: 9
 date: 2018-06-02
-img: NewEidCollage.jpg
+img: NewEidPicForWeb.jpg
 thumbnail: EidCookiesForFlyer.jpg
 alt: image-alt
 project-date: 
 client: 
 category: 
 description:  Your choice vanilla or chocolate. 
-price:  1-2 $1 per cookie, 3-6 $1.50 per cookie, 7-9 $2 - $1.50 per cookie ; Dozen Mixed Sizes - $15  (Free  delivery with order of $25 or more)
+price:  1-2 $2.50 per set or $1 per  cookie, 3-5 $1.50 each, 6 $2 each, 7 $4 per set or $1.50 per cookie, 8-9 $2 - $2 per cookie ; One Dozen in Mixed Sizes - $15  (Free  delivery with order of $25 or more)
 ---
