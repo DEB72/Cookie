@@ -7,7 +7,7 @@ date: 2018-03-27
 img: NewGirlsBabyShower.jpg
 thumbnail: BabyBottle.jpg
 alt: image-alt
-price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
-description:  Make your own set.  Choose vanilla for chocolate.
+price: Individual - $2.00; Dozen - $20 (Free  delivery with order of $25 or more)
+description:  Make your own set.  Choose vanilla for chocolate. (Price includes individual packaging with ribbon.)
 
 ---
