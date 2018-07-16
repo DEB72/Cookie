@@ -7,7 +7,7 @@ date: 2016-07-17
 img: ValentineCookieCollage.jpg
 thumbnail: ImprovedValentine.jpg
 alt: image-alt
-description:  Make your own set.  Choose vanilla or chocolate.
-price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
+description:  Make your own set.  Choose vanilla or chocolate. Prices include individual packaging with ribbon.
+price: Individual - $2.00 ; Dozen - $20  (Free  delivery with order of $25 or more)
 
 ---
