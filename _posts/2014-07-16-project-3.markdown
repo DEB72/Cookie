@@ -8,7 +8,7 @@ img: BoysBirthdayCookies.jpg
 thumbnail: BirthdayThumbnail.jpg
 alt: image-alt
 project-date: 
-price: Individual - $1.50 each or $15 for a dozen.
-description: 
+price: Individual - $2.00 each or $20 for a dozen.
+description: Prices individual packaging with ribbon.
 
 ---
