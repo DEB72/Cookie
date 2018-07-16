@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description:  Make your own set.  Choose chocolate for vanilla.
-price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
+description:  Make your own set.  Choose chocolate, vanilla, or gingerbread.  Prices include individual packaging with ribbon.
+price: Individual - $2.00 ; Dozen - $20  (Free  delivery with order of $25 or more)
 ---
