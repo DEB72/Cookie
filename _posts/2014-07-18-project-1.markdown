@@ -7,7 +7,7 @@ date: 2018-03-27
 img: NewBabyShowerForBoys.jpg
 thumbnail: BoyBabyShowerSet1.jpg
 alt: image-alt
-price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
-description: Make your own set.  Your choice vanilla or chocolate.   
+price: Individual - $2.00 ; Dozen - $20  (Free  delivery with order of $25 or more)
+description: Make your own set.  Your choice vanilla or chocolate. Price includes individual packgaging with ribbon. 
 
 ---
