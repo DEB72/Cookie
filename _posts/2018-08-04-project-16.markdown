@@ -1,0 +1,12 @@
+---
+title: Custom Cakes
+subtitle: Click on image to view more
+layout: default
+modal-id: 16
+date: 2018-08-04
+img: NewCakeCollage.jpg
+thumbnail: CakeCartoon.jpg
+alt: image-alt
+price: One Tier Fondant:  $35 to $50 (depending on difficulty); Two tier fondant:  $80 to $100 (depending on difficulty)  (Free  delivery with order of $25 or more)
+description: Your choice vanilla or chocolate. 
+---
