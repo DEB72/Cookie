@@ -1,0 +1,13 @@
+---
+title: Cake Pops
+subtitle: Click on image to view more
+layout: default
+modal-id: 15
+date: 2018-08-05
+img: CollageOfCakePops.jpg
+thumbnail: CakePopCartoon.jpg
+alt: image-alt
+price: Individual - $1.50 ; Dozen - $15  (Free  delivery with order of $25 or more)
+description: Your choice vanilla or chocolate. Price includes individual packaging. 
+
+---
